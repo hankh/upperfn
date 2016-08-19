@@ -1,5 +1,5 @@
 # upperfn
 Uppercase filenames
 
-Uppercase the jpg-files in the to-upper map. Files Sub-maps 1 deep this to-upper will be considered.
+Uppercase the jpg-files in the to-upper map. Also files (jpg) in sub-maps will be uppercased. 
 
