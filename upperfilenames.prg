@@ -20,7 +20,7 @@ local cdirname
 local cupperfile
 
   afoto := {}
-  newdir := olddir + "\groot"
+  newdir := olddir + "\to-upper"
   curdir("\" + newdir)
   adir := directory(,"D")
   for ln := 1 to len(adir)
