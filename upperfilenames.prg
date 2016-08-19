@@ -1,3 +1,7 @@
+//
+// omzetten van de filename van jpg-files in uppercase
+//
+
 #include 'directry.ch'
 
 
